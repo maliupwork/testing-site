@@ -1,0 +1,6 @@
+{
+  "name": "Al Huda eQuran Academy",
+  "description": "Al Huda eQuran Academy provides online Quran classes including Quran Reading, Tajweed, Hifz, Qaida and Islamic Studies for kids and adults worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
